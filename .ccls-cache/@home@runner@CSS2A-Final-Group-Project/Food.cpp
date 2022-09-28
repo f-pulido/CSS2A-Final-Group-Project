@@ -1,0 +1,1 @@
+// I think we don't really need the food class as much anymore since we have the Item.cpp and Item.hpp (which is the restaurant) and Slot/Vending.hpp and .cpp (which is the vending machine)
