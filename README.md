@@ -15,7 +15,8 @@ Fernando's Contributins: He worked on the Slot and Vending classes to simulate a
 
 Carlos's Contributions: He worked on the Black Jack and Cashier class, which allowed users to simulate a game of Black Jack and allowed them to request money, chips, etc. through the cashier. 
 
-Running the program: Download all files in folder and run main.cpp file
+Running the program: Download all files in casino_program folder and run main.cpp file
 
-Link to video demo: https://youtu.be/Bd9lkwCVt8M 
+Link to video demo: https://youtu.be/Bd9lkwCVt8M
+
 Link to Github Repository: https://github.com/fernando-pulido/CSS2A-Final-Group-Project.git 
